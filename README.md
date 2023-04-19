@@ -1,0 +1,2 @@
+# SharpLog
+ C# Lightweight logger.
